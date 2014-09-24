@@ -1,9 +1,9 @@
 # orbiters
 
 A Quil sketch made for fun (and to play with Quil's new
-functional-mode). I reverse engineered
+functional-mode). I reverse engineered Dave Whyte's
 [orbiters](http://beesandbombs.tumblr.com/post/45513650541/orbiters)
-in Processing, modified it a bit, then converted it to Quil.
+using Processing, modified it a bit, then converted it to Quil.
 
 ## Usage
 
