@@ -5,9 +5,13 @@ functional-mode). I reverse engineered Dave Whyte's
 [orbiters](http://beesandbombs.tumblr.com/post/45513650541/orbiters)
 using Processing, modified it a bit, then converted it to Quil.
 
+![Animated demonstration](demo.gif)
+
 The [processing.js version](http://www.daveliepmann.com/dataviz/orbitersColor) (in this repo as `orbiters-js.pde`) runs in
 the browser. The only difference is the use of screen.width instead of
 displayWidth (and same for height).
+
+Locally the animation runs full-screen, which is a more powerful visual effect.
 
 ## Usage
 
